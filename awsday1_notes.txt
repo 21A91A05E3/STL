@@ -1,0 +1,44 @@
+csp - cloud service provider
+ex:  google cloud,aws cloud,azure,oracle,ibm,alibaba,digital ocean,rackspace
+
+isp - internet service provider
+
+computer resources - ram and cpu
+
+acess : 1) student 2)root
+
+cloud is a rented service
+
+Server -- gives the hosted service to the clients.
+
+Cloud Characteristics according to NIST: 
+
+NIST : National Institute of Standards and Technology --> US based company
+
+1.On Demand Self Service
+2.Broad Network Acess
+3.Elasticity
+4.Resource Pooling
+5.Metered Services
+
+1.On Demand Self Service:
+
+server requested ->system admin (approves the request) -->accounts ->released ->order ->deliver -->connect to server room -->install os -->connect to network ->use the server  
+The above process is creation of physical server which takes nearly 20 days.
+
+But if we use cloud we can get the required server within few minutes.
+
+
+2.Broad Network Acess: 
+		Accessing the server at one location in another location.
+
+3.Elasticity:
+	Expanding and releasing of memory
+			 (or)
+	Increasing and decreasing the resources instantly.
+
+4.Resource Pooling:  (cloud prespective) 
+	Massive resources like ram,server,memory.Large quantity of resources are avaible everytime.
+
+5.Metered Services: "Pay as you go"
+	The amount to be paid depends on how long and how much you used the resource
